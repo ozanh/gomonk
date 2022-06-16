@@ -7,7 +7,7 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"gomonk/cmd/help"
+	"github.com/ozanh/gomonk/cmd/help"
 )
 
 var Version = "v0.1.0"

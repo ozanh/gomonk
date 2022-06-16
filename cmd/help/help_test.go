@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/urfave/cli/v2"
 
-	"gomonk/cmd/help"
+	"github.com/ozanh/gomonk/cmd/help"
 )
 
 func TestHelp(t *testing.T) {
